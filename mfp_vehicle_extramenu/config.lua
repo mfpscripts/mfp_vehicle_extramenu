@@ -1,12 +1,11 @@
 Config = {}
 
 Config.mTitle = "Fahrzeugverwaltung"
-Config.mBG = {'shopui_title_ie_modgarage','shopui_title_ie_modgarage'} -- interaction_bgd = Blue, gradient_bgd = Black.
+Config.mBG = {'shopui_title_ie_modgarage','shopui_title_ie_modgarage'}
 
 Config.menuKey = 344
 
---- Don't touch :)
---- You can touch if you want to change the language?
+
 Config.doors = {
     [1] = "Vorne Links",
     [2] = "Vorne Rechts" ,
